@@ -1,0 +1,43 @@
+body,
+html {
+    height: 100%;
+}
+
+div {
+    height: 700px;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    width: 500px;
+    text-align: center;
+    padding-top: 100px;
+    margin: 0 auto;
+    color: rgb(253, 253, 253);
+
+}
+
+p {
+    width: 500px;
+    text-align: center;
+    padding: 0;
+    margin: 0 auto;
+    color: rgb(253, 253, 253);
+}
+
+a {
+    background-color: #fff;
+    padding: 5px;
+    margin-top: 200px;
+}
+
+a:active {
+    color: blue;
+}
+
+a:hover {
+    color: hotpink;
+}
+
+.footer {}
